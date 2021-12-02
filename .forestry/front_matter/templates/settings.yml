@@ -3,7 +3,7 @@ label: Site Config
 hide_body: false
 fields:
 - name: title
-  label: Title
+  label: Bloomspace
   type: text
   hidden: false
   default: ''
@@ -15,6 +15,7 @@ fields:
 - type: file
   name: logo
   label: Logo
+  default: "/upload/black_logo_-_no_background.jpeg"
 - name: footer
   label: Footer
   type: text
