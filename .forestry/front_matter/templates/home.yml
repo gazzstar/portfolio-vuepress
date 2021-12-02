@@ -14,4 +14,5 @@ fields:
     schema:
       format: html
 pages:
+- portfolio/config.json
 - portfolio/index.md
